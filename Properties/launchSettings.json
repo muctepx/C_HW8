@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Sem8": {
+      "commandName": "Project",
+      "commandLineArgs": "d:\\Education .txt деньги",
+      "workingDirectory": "D:\\Education\\Coding\\C#\\Разработка приложения на C#\\Sem 8\\Sem8"
+    }
+  }
+}
